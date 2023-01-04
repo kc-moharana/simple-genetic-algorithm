@@ -1,2 +1,2 @@
-# simple-genetic-algorithm
-Implementing GA in python 
+# simple-genetic-algorithm: Implementing GA in python 
+- Object oriented approach 
